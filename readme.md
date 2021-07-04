@@ -3,6 +3,7 @@
 ## Dataset:
 
 This dataset was about 113936 Prosper Loans and consists of 81 different variables to represent these loans, this variables includes a lot of info about the loan itslef and the borrowers, and some information about investors.
+Link: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1554486256021000
 
 ## Summary of Analysis process:
 
@@ -22,3 +23,4 @@ there was also a naming or qaulity issues I have found like reprentaion of the s
         The Feasts like Chrismas ha an incrdible effect in the number of loans.
         We have to faciliate the loans to some states and expand our services there.
         there is a strong relationship between Income Range for the borrower and all other variables like Debt to income ratio and Number of open credit lines.
+      
